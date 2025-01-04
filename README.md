@@ -10,7 +10,7 @@ Hopefully it will be usefull for someone else ...
 * Blog Demo with Posts and Authors
 * Blog functions by Composables
 * Local Search by vitepress
-...
+
 ## Useage with pnpm
 
 ### Install
