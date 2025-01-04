@@ -1,3 +1,8 @@
+## [v0.0.3] - 2025-01-04
+### :sparkles: New Features
+- [`5b2ef41`](https://github.com/poletsvetov/vitepress-blog-starter/commit/5b2ef416dfa6e1e5f7e6f77a767aa568d65bd5f9) - update README.md *(commit by [@poletsvetov](https://github.com/poletsvetov))*
+
+
 ## [v0.10.0] - 2024-11-29
 ### :wrench: Chores
 - [`16e7bbc`](https://github.com/sfxcode/vitepress-blog-starter/commit/16e7bbc813215d74a0319cb12fbadbed260c4ad3) - **Dependencies**: New VitePress Version 1.0.2 *(commit by [@sfxcode](https://github.com/sfxcode))*
@@ -197,3 +202,4 @@
 [v0.9.1]: https://github.com/sfxcode/vitepress-blog-starter/compare/v0.9.0...v0.9.1
 [v0.9.2]: https://github.com/sfxcode/vitepress-blog-starter/compare/v0.9.1...v0.9.2
 [v0.10.0]: https://github.com/sfxcode/vitepress-blog-starter/compare/v0.9.2...v0.10.0
+[v0.0.3]: https://github.com/poletsvetov/vitepress-blog-starter/compare/v0.0.2...v0.0.3
